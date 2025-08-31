@@ -90,7 +90,6 @@ The sofware being developed has users/actors and these actors interact with the 
 For instance users can be: "guests" "admin" "registered user". Each user has different use cases or goals to achieve when interacting with the system. A guess wants to search properties, check their ratings, and at the end book the property and pay for it.
 
 ![Booking System Use Case Diagram] (/requirements-analysis/alx-booking-uc.png)
-
 ## 💡 Acceptance Criteria
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
 Before reaching this stage both developers and stakeholders need to define these criteria (check requirements validation). 
